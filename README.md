@@ -6,3 +6,6 @@ Soy estudiante de ASIR y estoy aprendiendo Git.
 
 ## Hobbies
 Me gusta la informática, la música y los videojuegos.
+
+## Contacto
+Correo: josembaena97@gmail.com
