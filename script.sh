@@ -1,2 +1,2 @@
-echo "Hola Mundo"3
+echo "Hola Mundo"
 # Comentario nuevo
