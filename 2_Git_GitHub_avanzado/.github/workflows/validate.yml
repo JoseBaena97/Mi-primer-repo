@@ -2,7 +2,7 @@ name: Validar Shell Script
 
 on:
   push:
-    branches: [main]  # Ejecutar solo en push a la rama main
+    branches: [ "main" ]  # Ejecutar solo en push a la rama main
 
 jobs:
   shellcheck:
